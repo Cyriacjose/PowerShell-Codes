@@ -1,0 +1,35 @@
+FirstName,LastName,Name,Description,OU,Password,Department,Title,Company
+John,Doe,jdoe,Service Desk Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword123,IT,Service Desk Analyst,CJ Sec Solutions
+Jane,Smith,jsmith,IT Support Technician,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword124,IT,IT Support Technician,CJ Sec Solutions
+Michael,Brown,mbrown,Desktop Support Engineer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword125,IT,Desktop Support Engineer,CJ Sec Solutions
+Emily,Johnson,ejohnson,Systems Administrator,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword126,IT,Systems Administrator,CJ Sec Solutions
+Alice,Taylor,ataylor,Network Administrator,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword127,IT,Network Administrator,CJ Sec Solutions
+Robert,Wilson,rwilson,Cloud Engineer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword128,IT,Cloud Engineer,CJ Sec Solutions
+Sophia,Martinez,smartinez,Cloud Solutions Architect,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword129,IT,Cloud Solutions Architect,CJ Sec Solutions
+Daniel,Lee,dlee,DevOps Engineer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword130,IT,DevOps Engineer,CJ Sec Solutions
+Grace,Clark,gclark,Site Reliability Engineer (SRE),"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword131,IT,Site Reliability Engineer (SRE),CJ Sec Solutions
+Liam,Walker,lwalker,Database Administrator (DBA),"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword132,IT,Database Administrator (DBA),CJ Sec Solutions
+Emma,Hall,ehall,Data Engineer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword133,IT,Data Engineer,CJ Sec Solutions
+Noah,Allen,nallen,Data Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword134,IT,Data Analyst,CJ Sec Solutions
+Olivia,Young,oyoung,Data Scientist,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword135,IT,Data Scientist,CJ Sec Solutions
+Mason,King,mking,Business Intelligence (BI) Developer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword136,IT,Business Intelligence (BI) Developer,CJ Sec Solutions
+Ava,Wright,awright,Cybersecurity Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword137,IT,Cybersecurity Analyst,CJ Sec Solutions
+Ethan,Scott,escott,Security Engineer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword138,IT,Security Engineer,CJ Sec Solutions
+Isabella,Green,igreen,Security Architect,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword139,IT,Security Architect,CJ Sec Solutions
+Logan,Adams,ladams,SOC Analyst (Security Operations Center),"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword140,IT,SOC Analyst (Security Operations Center),CJ Sec Solutions
+Mia,Baker,mbaker,Penetration Tester (Ethical Hacker),"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword141,IT,Penetration Tester (Ethical Hacker),CJ Sec Solutions
+Lucas,Nelson,lnelson,Incident Response Specialist,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword142,IT,Incident Response Specialist,CJ Sec Solutions
+Amelia,Carter,acarter,Identity and Access Management (IAM) Specialist,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword143,IT,Identity and Access Management (IAM) Specialist,CJ Sec Solutions
+Jackson,Mitchell,jmitchell,Software Developer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword144,IT,Software Developer,CJ Sec Solutions
+Harper,Perez,hperez,Backend Developer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword145,IT,Backend Developer,CJ Sec Solutions
+Elijah,Roberts,eroberts,Frontend Developer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword146,IT,Frontend Developer,CJ Sec Solutions
+Chloe,Turner,cturner,Full-Stack Developer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword147,IT,Full-Stack Developer,CJ Sec Solutions
+Benjamin,Phillips,bphillips,Mobile App Developer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword148,IT,Mobile App Developer,CJ Sec Solutions
+Lily,Campbell,lcampbell,QA Engineer / Test Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword149,IT,QA Engineer / Test Analyst,CJ Sec Solutions
+Matthew,Parker,mparker,Automation Test Engineer,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword150,IT,Automation Test Engineer,CJ Sec Solutions
+Charlotte,Evans,cevans,IT Project Manager,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword151,IT,IT Project Manager,CJ Sec Solutions
+James,Edwards,jedwards,IT Business Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword152,IT,IT Business Analyst,CJ Sec Solutions
+Zoe,Collins,zcollins,Enterprise Architect,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword153,IT,Enterprise Architect,CJ Sec Solutions
+William,Stewart,wstewart,IT Manager,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword154,IT,IT Manager,CJ Sec Solutions
+Hannah,Morris,hmorris,Service Desk Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword155,IT,Service Desk Analyst,CJ Sec Solutions
+Alexander,Rogers,arogers,Service Desk Analyst,"OU=IT,OU=National Office,OU=Victoria,OU=Users,OU=Australia,DC=cjgroup,DC=local",P@ssword156,IT,Service Desk Analyst,CJ Sec Solutions
